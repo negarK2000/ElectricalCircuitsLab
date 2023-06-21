@@ -1,0 +1,7 @@
+* PSpice Model Editor - Version 9.2
+
+*$
+.model D02bz3_3 D(Is=10.01E-21 N=3.085 Rs=.3718 Ikf=5.954 Xti=3 Eg=1.11 Cjo=1p
++               M=.3333 Vj=.75 Fc=.5 Isr=753.9n Nr=2 Bv=3.1 Ibv=7.846m
++               Tt=14.43n)
+*$
